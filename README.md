@@ -8,4 +8,4 @@ Repositorio con varios archivos para aprender a usar git
 <?php
 php.info();
 ?>
-´´´
+```
