@@ -2,7 +2,7 @@
 Para aprender a usar git
 
 ## introduccion 
-Repositorio con varios archivos para aprender a usar git
+Repositorio con varios archivos para aprender a usar git.
 
 ```
 <?php
